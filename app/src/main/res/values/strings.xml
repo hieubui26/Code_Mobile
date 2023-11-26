@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Code_Mobile</string>
+    <string-array name="level">
+        <item>Dễ</item>
+        <item>Trung bình</item>
+        <item>Khó</item>
+    </string-array>
+</resources>

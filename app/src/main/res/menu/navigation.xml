@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuList"
+        android:icon="@drawable/ic_list"
+        android:title="Danh sach" />
+    <item android:id="@+id/menuInfo"
+        android:icon="@drawable/ic_info"
+        android:title="Thong tin" />
+    <item android:id="@+id/menuSearch"
+        android:icon="@drawable/ic_search"
+        android:title="Tim kiem" />
+</menu>
